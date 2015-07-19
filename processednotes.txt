@@ -1,0 +1,452 @@
+
+Sentence1 >>> Spoke with pt over the phone. <<<
+
+Tokens of this sentence are as follows
+
+----
+Spoke
+----
+with
+----
+pt
+----
+over
+----
+the
+----
+phone
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('Spoke', 'NNP') ('with', 'IN') ('pt', 'NN') ('over', 'IN') ('the', 'DT') ('phone', 'NN') ('.', '.') 
+
+Sentence2 >>> Pt presents with fairly new dx of diabetes, currently not any meds. <<<
+
+Tokens of this sentence are as follows
+
+----
+Pt
+----
+presents
+----
+with
+----
+fairly
+----
+new
+----
+dx
+----
+of
+----
+diabetes
+----
+,
+----
+currently
+----
+not
+----
+any
+----
+meds
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('Pt', 'NNP') ('presents', 'NNS') ('with', 'IN') ('fairly', 'RB') ('new', 'JJ') ('dx', 'NN') ('of', 'IN') ('diabetes', 'NNS') (',', ',') ('currently', 'RB') ('not', 'RB') ('any', 'DT') ('meds', 'NNS') ('.', '.') 
+
+Sentence3 >>> States this happened about 2 yrs ago and was able to control blood sugars with diet and exercise. <<<
+
+Tokens of this sentence are as follows
+
+----
+States
+----
+this
+----
+happened
+----
+about
+----
+2
+----
+yrs
+----
+ago
+----
+and
+----
+was
+----
+able
+----
+to
+----
+control
+----
+blood
+----
+sugars
+----
+with
+----
+diet
+----
+and
+----
+exercise
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('States', 'NNS') ('this', 'DT') ('happened', 'VBN') ('about', 'IN') ('2', 'CD') ('yrs', 'NNS') ('ago', 'RB') ('and', 'CC') ('was', 'VBD') ('able', 'JJ') ('to', 'TO') ('control', 'NN') ('blood', 'NN') ('sugars', 'NNS') ('with', 'IN') ('diet', 'JJ') ('and', 'CC') ('exercise', 'VB') ('.', '.') 
+
+Sentence4 >>> Recently went through medic school and was very inactive and got off track with diet. <<<
+
+Tokens of this sentence are as follows
+
+----
+Recently
+----
+went
+----
+through
+----
+medic
+----
+school
+----
+and
+----
+was
+----
+very
+----
+inactive
+----
+and
+----
+got
+----
+off
+----
+track
+----
+with
+----
+diet
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('Recently', 'RB') ('went', 'VBD') ('through', 'IN') ('medic', 'JJ') ('school', 'NN') ('and', 'CC') ('was', 'VBD') ('very', 'RB') ('inactive', 'JJ') ('and', 'CC') ('got', 'VBD') ('off', 'RP') ('track', 'NN') ('with', 'IN') ('diet', 'JJ') ('.', '.') 
+
+Sentence5 >>> States blood sugars have been running in the 150 range since he has been watching diet and exercising. <<<
+
+Tokens of this sentence are as follows
+
+----
+States
+----
+blood
+----
+sugars
+----
+have
+----
+been
+----
+running
+----
+in
+----
+the
+----
+150
+----
+range
+----
+since
+----
+he
+----
+has
+----
+been
+----
+watching
+----
+diet
+----
+and
+----
+exercising
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('States', 'NNS') ('blood', 'VBD') ('sugars', 'NNS') ('have', 'VBP') ('been', 'VBN') ('running', 'VBG') ('in', 'IN') ('the', 'DT') ('150', 'CD') ('range', 'NN') ('since', 'IN') ('he', 'PRP') ('has', 'VBZ') ('been', 'VBN') ('watching', 'VBG') ('diet', 'JJ') ('and', 'CC') ('exercising', 'VBG') ('.', '.') 
+
+Sentence6 >>> Following the \Miracle Green\" diet which consists of lots of green vegetables and water foods. <<<
+
+Tokens of this sentence are as follows
+
+----
+Following
+----
+the
+----
+\Miracle
+----
+Green\
+----
+''
+----
+diet
+----
+which
+----
+consists
+----
+of
+----
+lots
+----
+of
+----
+green
+----
+vegetables
+----
+and
+----
+water
+----
+foods
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('Following', 'VBG') ('the', 'DT') ('\\Miracle', 'JJ') ('Green\\', 'NN') ("''", "''") ('diet', 'NN') ('which', 'WDT') ('consists', 'NNS') ('of', 'IN') ('lots', 'NNS') ('of', 'IN') ('green', 'JJ') ('vegetables', 'NNS') ('and', 'CC') ('water', 'NN') ('foods', 'NNS') ('.', '.') 
+
+Sentence7 >>> Discussed SMBG and glucose goals, Fad diets, Vit/min supplements,  Carb intake, AADE Self-Care Behaviors. <<<
+
+Tokens of this sentence are as follows
+
+----
+Discussed
+----
+SMBG
+----
+and
+----
+glucose
+----
+goals
+----
+,
+----
+Fad
+----
+diets
+----
+,
+----
+Vit/min
+----
+supplements
+----
+,
+----
+Carb
+----
+intake
+----
+,
+----
+AADE
+----
+Self-Care
+----
+Behaviors
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('Discussed', 'VBN') ('SMBG', 'NNP') ('and', 'CC') ('glucose', 'VB') ('goals', 'NNS') (',', ',') ('Fad', 'NNP') ('diets', 'NNS') (',', ',') ('Vit/min', 'JJ') ('supplements', 'NNS') (',', ',') ('Carb', 'NNP') ('intake', 'NN') (',', ',') ('AADE', 'NNP') ('Self-Care', 'JJ') ('Behaviors', 'NNS') ('.', '.') 
+
+Sentence8 >>> Pt is up to date with eye exam, dental exam, and foot care. <<<
+
+Tokens of this sentence are as follows
+
+----
+Pt
+----
+is
+----
+up
+----
+to
+----
+date
+----
+with
+----
+eye
+----
+exam
+----
+,
+----
+dental
+----
+exam
+----
+,
+----
+and
+----
+foot
+----
+care
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('Pt', 'NNP') ('is', 'VBZ') ('up', 'IN') ('to', 'TO') ('date', 'NN') ('with', 'IN') ('eye', 'NN') ('exam', 'NN') (',', ',') ('dental', 'JJ') ('exam', 'NN') (',', ',') ('and', 'CC') ('foot', 'NN') ('care', 'NN') ('.', '.') 
+
+Sentence9 >>> Pt states his lipids are elvated but unable to tolerate statins. <<<
+
+Tokens of this sentence are as follows
+
+----
+Pt
+----
+states
+----
+his
+----
+lipids
+----
+are
+----
+elvated
+----
+but
+----
+unable
+----
+to
+----
+tolerate
+----
+statins
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('Pt', 'NNP') ('states', 'NNS') ('his', 'PRP$') ('lipids', 'NNS') ('are', 'VBP') ('elvated', 'VBN') ('but', 'CC') ('unable', 'JJ') ('to', 'TO') ('tolerate', 'VB') ('statins', 'NNS') ('.', '.') 
+
+Sentence10 >>> Discussed high fiber foods, mono unsat fats, and total fat intake. <<<
+
+Tokens of this sentence are as follows
+
+----
+Discussed
+----
+high
+----
+fiber
+----
+foods
+----
+,
+----
+mono
+----
+unsat
+----
+fats
+----
+,
+----
+and
+----
+total
+----
+fat
+----
+intake
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('Discussed', 'VBN') ('high', 'JJ') ('fiber', 'NN') ('foods', 'NNS') (',', ',') ('mono', 'RB') ('unsat', 'JJ') ('fats', 'NNS') (',', ',') ('and', 'CC') ('total', 'JJ') ('fat', 'NN') ('intake', 'NN') ('.', '.') 
+
+Sentence11 >>> Pt to call with questions of f/u appt if needed. <<<
+
+Tokens of this sentence are as follows
+
+----
+Pt
+----
+to
+----
+call
+----
+with
+----
+questions
+----
+of
+----
+f/u
+----
+appt
+----
+if
+----
+needed
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('Pt', 'NNP') ('to', 'TO') ('call', 'VB') ('with', 'IN') ('questions', 'NNS') ('of', 'IN') ('f/u', 'JJ') ('appt', 'NN') ('if', 'IN') ('needed', 'VBN') ('.', '.') 
+
+Sentence12 >>> Discussed probable need for diabetic meds if unable to get blood sugars to goal after 10-20# wt loss. <<<
+
+Tokens of this sentence are as follows
+
+----
+Discussed
+----
+probable
+----
+need
+----
+for
+----
+diabetic
+----
+meds
+----
+if
+----
+unable
+----
+to
+----
+get
+----
+blood
+----
+sugars
+----
+to
+----
+goal
+----
+after
+----
+10-20
+----
+#
+----
+wt
+----
+loss
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('Discussed', 'VBN') ('probable', 'JJ') ('need', 'NN') ('for', 'IN') ('diabetic', 'JJ') ('meds', 'NNS') ('if', 'IN') ('unable', 'JJ') ('to', 'TO') ('get', 'VB') ('blood', 'NN') ('sugars', 'NNS') ('to', 'TO') ('goal', 'NN') ('after', 'IN') ('10-20', 'CD') ('#', '#') ('wt', 'NN') ('loss', 'NN') ('.', '.') 
